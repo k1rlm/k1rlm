@@ -1,5 +1,5 @@
 ## Hello, i'm a beginner programmer
-## I like play games such as dota 2, war thunder, minecraft, osu. I also like listen to music and watch anime
+## I like playing games such as dota 2, war thunder, minecraft, osu. I also like listen to music and watch anime
 ## I learn C# and Unity
 
 #### Languages I know
