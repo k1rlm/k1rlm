@@ -1,8 +1,9 @@
 ## Hello, i'm a beginner programmer;
-## I like listen to rock music and watch anime in my freetime;
-## I use arch linux, freebsd and nano/gedit;
-## I'm supporter of open-source programms that under MIT License, BSD License and Apache;
-## I learn Shell and C#;
+## I like to listen to rock music and watch anime in my freetime;
+## I use arch linux btw;
+## I write code in vscodium
+## I'm supporter of open-source programms that are under MIT License, BSD License and Apache;
+## I learn Shell and Java;
 ## I'm interested in Android;
 ## Languages and technologies I know
 <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/1200px-Android_logo_2019_%28stacked%29.svg.png" />
